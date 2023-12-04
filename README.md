@@ -7,6 +7,7 @@
 
 <img src="C:\Users\liuwang\Desktop\README.assets\image-20231204183453802.png" alt="image-20231204183453802" style="zoom: 50%;" />
 
-<img src="C:\Users\liuwang\Desktop\README.assets\image-20231204183547448.png" alt="image-20231204183547448" style="zoom:50%;" />
+<img src="![image](https://github.com/catchskate/Mathematical_formula/assets/111588756/4eb7b645-6e79-434d-a9d0-4107d2328f00)" alt="image-20231204183547448" style="zoom:50%;" />
+
 
 望有缘人能够完善代码。
