@@ -20,7 +20,7 @@ pip install pyscreenshot
 对于分类模型，系统会自动下载模型mobilenet_v2.zip文件并对其解压，然后把解压后的模型相关目录放于~/.pix2text目录中。
 如果系统无法自动成功下载mobilenet_v2.zip文件，则需要手动从 cnstd-cnocr-models/pix2text 下载此zip文件并把它放于 ~/.pix2text目录。如果下载太慢，也可以从云盘下载，https://www.123pan.com/s/FSWcVv-nk9e.html
 
-对于 LaTeX-OCR ，系统同样会自动下载模型文件并把它们存放于~/.pix2text/formula目录中。如果系统无法自动成功下载这些模型文件，则需从 百度云盘 下载文件 weights.pth 和 image_resizer.pth， 并把它们存放于~/.pix2text/formula目录中。
+对于 LaTeX-OCR ，系统同样会自动下载模型文件并把它们存放于~/.pix2text/formula目录中。如果系统无法自动成功下载这些模型文件，则也需从云盘下载文件 weights.pth 和 image_resizer.pth， 并把它们存放于~/.pix2text/formula目录中。
 网盘下载：https://www.123pan.com/s/FSWcVv-nk9e.html
 
 
