@@ -1,4 +1,5 @@
-基于Pix2Text+PyQT5完成的可视化数学公式识别提取工具，可直接提取为LaxTex、MathML格式。复制MathML就能直接粘贴在Word、PPT软件使用。  
+基于Pix2Text+PyQT5完成的可视化数学公式识别提取工具，可直接提取为LaxTex、MathML格式。  
+直接复制为LaTex格式，复制MathML就能直接粘贴在Word、PPT软件使用。  
 也可仅识别文本内容（准确率低）  
 --------------开发功能--------------  
 1.用户自行上传图片进行识别  
