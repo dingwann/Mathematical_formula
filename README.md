@@ -3,7 +3,10 @@
 --------------开发功能--------------  
 1.用户自行上传图片进行识别  
 2.使用内置截图功能进行截图识别  
-3.支持仅公式、仅文字、公式+文字三种识别
-##  
+3.支持仅公式、仅文字、公式+文字三种识别  
+
+<img src="C:\Users\liuwang\Desktop\README.assets\image-20231204183453802.png" alt="image-20231204183453802" style="zoom: 50%;" />
+
+<img src="C:\Users\liuwang\Desktop\README.assets\image-20231204183547448.png" alt="image-20231204183547448" style="zoom:50%;" />
 
 望有缘人能够完善代码。
