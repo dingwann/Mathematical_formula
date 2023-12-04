@@ -13,7 +13,6 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 继承 QMainWindow 类和 Ui_
     def __init__(self, parent=None):
         super(MyMainWindow, self).__init__(parent)  # 初始化父类
         self.setupUi(self)  # 继承 Ui_MainWindow 界面类
-        # self.retranslateUi(self)  # 继承类，但会默认调用里面的函数
 
     def click_listWidget_01(self):
         self.pushButton_8.clicked.connect(self.jieping)

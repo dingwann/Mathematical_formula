@@ -54,7 +54,7 @@ class Screenshot():
             width = abs(point1[0] - point2[0])
             height = abs(point1[1] -point2[1])
             cut_img = img[min_y:min_y+height, min_x:min_x+width]
-            address = f'ui/screen/{randomnum}.jpg'
+            address = f'screen/{randomnum}.jpg'
             cv2.imwrite(address, cut_img)
 
 
