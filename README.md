@@ -7,4 +7,4 @@
 3.支持仅公式、仅文字、公式+文字三种识别    
 <img src='https://github.com/catchskate/Mathematical_formula/assets/111588756/efd1e80b-befd-43c5-8674-83d254bf3c48' width=450px>  
 <img src='https://github.com/catchskate/Mathematical_formula/assets/111588756/501e6c34-26b9-4c30-a4fd-6c076a00b165' width=450px>  
-望有缘人能够完善代码。
+望有缘人能够完善该工具。
