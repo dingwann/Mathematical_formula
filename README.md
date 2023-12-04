@@ -4,5 +4,5 @@
 1.用户自行上传图片进行识别  
 2.使用内置截图功能进行截图识别  
 3.支持仅公式、仅文字、公式+文字三种识别    
-<img src='https://github.com/catchskate/Mathematical_formula/assets/111588756/efd1e80b-befd-43c5-8674-83d254bf3c48' width=250px>
+<img src='https://github.com/catchskate/Mathematical_formula/assets/111588756/efd1e80b-befd-43c5-8674-83d254bf3c48' width=500px>  
 望有缘人能够完善代码。
