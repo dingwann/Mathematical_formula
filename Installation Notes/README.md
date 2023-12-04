@@ -10,7 +10,7 @@ pip install pyscreenshot
 
 默认情况下请选择文本+公式提取。  
 如运行脚本，请确保Python环境和教程内所需的第三方库正确配置。  
-截屏图片放在项目文件ui/screen目录下，文件名为随机生成。  
+截屏图片放在项目文件code/screen目录下，文件名为随机生成。  
 
 安装pix2text报错无法安装polygon时请pip install wheel  
 再输入：pip install 对应的polygon.whl文件路径即可。（cp3.8代表Python3.8，请自行对应选择）  
